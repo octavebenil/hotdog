@@ -42,7 +42,7 @@ Télechargena ny dataset izay ilaina amin'ny alalan'ireto script python ireto :
         
          misy fichier urls.txt azo avy eo ka afaka ampiasaina amin'ny script eto ambany.
 
- - **get_datasets.py** ; Télécharge ny sary izay mifanara amin'ny urls azo teto ambony
+ - **get_datasets.py** ; Télécharge ny sary izay mifanaraka amin'ny urls azo teto ambony
 
 Nanampy be dia be koa ny dataset [ukbench](https://archive.org/details/ukbench). Izy ity dia misy sary maro izay tsy misy hifandraisany amin'ny sakafo
 
